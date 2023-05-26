@@ -1,4 +1,7 @@
 ### Hi there 👋
+[english.wx3](https://github.com/kingyang/english.wx3)  
+[english.manage](https://github.com/kingyang/english.manage)
+
 
 <!--
 **kingyang/kingyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
